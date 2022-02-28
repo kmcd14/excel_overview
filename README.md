@@ -16,4 +16,4 @@ I think they just want to see Q2 2021 volume by region and wanted to know if eve
 
 ## Image of Final Report
 
-![img]("images_pdf/report.jpg")
+<img src="images_pdf/report.jpg">
