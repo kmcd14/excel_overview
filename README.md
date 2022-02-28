@@ -2,7 +2,7 @@
 
 This project involved:
 - The preparation and cleaning of data.
-- Exploring and analysing the processed data.
+- Exploring and analysing the processed data (inculding pivot tables and vlookup)
 - Visualisation. 
 - Report writing.
 
